@@ -10,6 +10,6 @@ import Foundation
 
 func input() -> String{
     let input = readLine();
-    let ret: String = String(input!);
-    return ret;
+    let inp: String = String(input!);
+    return inp;
 }
